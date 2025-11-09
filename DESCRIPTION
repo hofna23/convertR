@@ -1,0 +1,13 @@
+Package: convertR
+Title: Converter in R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nadja", "Hofer", , "nadja.hofer@stud.unilu.ch", role = c("aut", "cre"))
+Description: This package converts.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
